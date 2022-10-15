@@ -24,3 +24,22 @@ print(f"My name is {a}")
 print(f"My name is {a!r}")#here "!r" helps to quote the string in the printout stmnt
 print(f'value of x is {result:1.3f}')#compare line 21 to line 25
 
+ Output-
+>>BISWAJITPATNAIK
+>>biswajitpatnaik
+>>Biswajitpatnaik
+>>bISWAJITpATNAIK
+>>iswajitPatnaik
+>>True
+>>BiswajitPatn
+>>('Biswajit', 'P', 'atnaik')
+>>8
+>>2
+>>['B', 'swaj', 'tPatna', 'k']
+>>age 29
+>>This is mine me
+>>value of x is 45.86376
+>>value of x precise is 45.864
+>>My name is BiswajitPatnaik
+>>My name is 'BiswajitPatnaik'
+>>value of x is 45.864
